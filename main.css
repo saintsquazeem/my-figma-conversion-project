@@ -1,0 +1,95 @@
+.navbar{
+    height: 80px;
+    border-bottom: 10px solid lightgray; 
+    
+}
+
+
+.frist{
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.button{
+    float: right;
+    padding-right: 10px;
+    padding-left: 10px;
+    align-items: center;
+    background-color: blue;
+    color: blue;
+}
+.logo{
+    font-size: medium;
+    font-weight: bold;
+    color: blue;
+    padding-left:10px;
+
+}
+.picture{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 8rem;
+    background: color #f5f5f5;;
+    align-items: center;
+    
+
+}
+.quazeem{
+    width: 100%;
+    margin-right:5rem; 
+    
+}
+.mypics{
+     width: 100%;
+     margin-left: 40rem;
+     margin-right:2rem;
+     
+}
+.senatorabiru{
+    
+    display: flex;
+    justify-content: center;
+    padding-bottom: 8rem;
+    background: color #f5f5f5;;
+    align-items: center;
+
+}
+.grouppics{
+    width: 100%;
+    margin-right:5rem;
+}
+h4{
+    color: blue;
+    font-weight: bold
+    ;
+}
+.call{
+    height: 20px;
+    border-bottom: 10px solid rgb(249, 246, 246); 
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    
+
+    padding-bottom: 8rem;
+    background: color #f5f5f5;;
+    align-items: flex-start;
+
+}
+.call2{
+    padding: 10px;
+    margin: 15px;
+
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 8rem;
+    background: color #f5f5f5;;
+    align-items: center;
+    
+}
+
+
